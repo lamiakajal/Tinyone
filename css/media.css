@@ -1,0 +1,262 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /* common start */
+  body {
+    padding-top: 89px;
+  }
+  .c-padding {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+  /* Header Section Start Here */
+  header {
+    padding: 10px 0;
+  }
+  .menu ul li a {
+    padding: 10px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+  }
+  /* Header Section End Here */
+  /* Slider Section Start Here */
+  .slider {
+    padding-bottom: 60px;
+  }
+  .c-ind {
+    bottom: -60px;
+  }
+  .c-ind [data-bs-target] {
+    height: 13px;
+    width: 13px;
+  }
+  .s-text {
+    margin-top: 0;
+  }
+  .s-text h1 {
+    font-size: 25px;
+  }
+  .s-text h2 {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  .s-text p {
+    margin-bottom: 20px;
+  }
+  .s-icon ul li {
+    margin-right: 15px !important;
+  }
+  .s-icon ul li i {
+    font-size: 35px;
+  }
+  /* Slider Section End Here */
+  /* Feature Section Start Here */
+
+  .c-h1 {
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  .c-p {
+    font-size: 17px;
+    line-height: 25px;
+  }
+
+  .f-item {
+    margin-top: 30px;
+  }
+  .f-icon i {
+    margin-top: 0;
+    font-size: 35px;
+  }
+  .f-text {
+    text-align: center;
+  }
+  .f-text h2 {
+    margin-bottom: 0;
+    font-size: 20px;
+  }
+  .f-text p {
+    letter-spacing: 0;
+  }
+  /* Feature Section End Here */
+  /* Contact Section Start Here */
+  .c-form {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .c-input {
+    height: 45px;
+    padding: 10px 10px;
+  }
+  .c-submit {
+    height: 45px;
+  }
+  .c-icon li {
+    margin-right: 20px !important;
+  }
+  .c-icon ul li a i {
+    font-size: 38px;
+  }
+  /* Contact Section End Here */
+  /* Footer Section Start Here */
+  footer {
+    padding-bottom: 70px;
+  }
+  .f-1 {
+    text-align: center;
+  }
+  .f-2 {
+    text-align: center;
+    margin-top: 40px;
+  }
+}
+/* Footer Section End Here */
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* common start */
+  body {
+    padding-top: 89px;
+  }
+  .c-padding {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+  /* Header Section Start Here */
+  .menu ul li a {
+    padding: 10px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+  }
+  /* Header Section End Here */
+  /* Slider Section Start Here */
+  .slider {
+    padding-bottom: 60px;
+  }
+  .c-ind {
+    bottom: -55px;
+  }
+  .c-ind [data-bs-target] {
+    height: 13px;
+    width: 13px;
+  }
+  .s-text {
+    margin-top: 0;
+  }
+  .s-text h1 {
+    font-size: 25px;
+  }
+  .s-text h2 {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  .s-text p {
+    margin-bottom: 20px;
+  }
+  .s-icon ul li {
+    margin-right: 20px !important;
+  }
+  .s-icon ul li i {
+    font-size: 35px;
+  }
+  /* Slider Section End Here */
+  /* Feature Section Start Here */
+
+  .c-h1 {
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  .c-p {
+    font-size: 17px;
+    line-height: 25px;
+  }
+  .f-item {
+    margin-top: 30px;
+  }
+  .f-icon i {
+    margin-top: 0;
+    font-size: 35px;
+  }
+  .f-text {
+    text-align: center;
+  }
+  .f-text h2 {
+    margin-bottom: 0;
+    font-size: 20px;
+  }
+  .f-text p {
+    letter-spacing: 0;
+  }
+  /* Feature Section End Here */
+  /* Contact Section Start Here */
+  .c-form {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .c-input {
+    height: 45px;
+    padding: 10px 10px;
+  }
+  .c-submit {
+    height: 45px;
+  }
+  .c-icon li {
+    margin-right: 25px !important;
+  }
+  .c-icon ul li a i {
+    font-size: 40px;
+  }
+  /* Contact Section End Here */
+  /* Footer Section Start Here */
+  footer {
+    padding-bottom: 70px;
+  }
+  .f-1 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .f-2 {
+    text-align: center;
+  }
+}
+/* Footer Section End Here */
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .c-padding {
+    padding-top: 80px;
+    padding-bottom: 100px;
+  }
+  /* Header Section Start Here */
+  .menu ul li a {
+    padding: 10px 0 0 !important;
+    text-align: right;
+  }
+  /* Header Section End Here */
+}
+/* Feature Section Start Here */
+.f-item {
+  margin-top: 50px;
+}
+/* Feature Section End Here */
+/* Contact Section Start Here */
+.c-form {
+  margin-top: 65px;
+}
+.c-icon ul li a i {
+  font-size: 40px;
+}
+/* Contact Section End Here */
+/* Footer Section Start Here */
+footer {
+  padding-bottom: 100px;
+}
+
+/* Footer Section End Here */
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+}

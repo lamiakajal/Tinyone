@@ -1,0 +1,56 @@
+font-family - pt sant
+	bold
+	regular
+
+	color-----------
+	black - #010101
+	ash - #898989
+	yel - #fcdb00
+	p1 313841
+	p2 555555
+
+====================================
+	xxl	1440 -1600 -1800 -2100
+	xl	1200
+	lg	1024
+
+	md	768
+
+	sm	576
+	col	320
+
+header
+			xxxl/xl/lg       md      sm/call
+
+Menu
+			xxxl/xl/lg       md      sm/call
+			22				22
+
+
+padding-----------------  100-120		 80		  50-70
+						xxxl/xl/lg       md      sm/call
+header top-bottom		 20				20			10
+
+slider------------------
+			xxxl/xl/lg       md      sm/call
+
+h1 				32			32			25
+h2				20			20			18
+p				16			16			16
+icon			42			42			35
+pb 			100				100			60
+
+feature------------------
+			xxxl/xl/lg       md      sm/call
+
+pt				100
+pb				120
+
+mt 				70			50			30
+
+h1 				32			32			25
+p 				20			20			17
+
+icon 			50			50			35
+h2				22			22			20/18
+p 				16			16			16
